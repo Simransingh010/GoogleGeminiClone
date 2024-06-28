@@ -13,9 +13,9 @@ Start a new conversation, clearing the previous chat.
 
 
 # Screenshots
-<img src="https://github.com/Simransingh010/GoogleGeminiClone/assets/73211327/f5fa09eb-938c-4a02-a436-fa77f6be2471" width="300" height="600">
-<img src="https://github.com/Simransingh010/GoogleGeminiClone/assets/73211327/8e5fd7f4-2f29-4307-82c7-f0eea488eeba" width="300" height="600">
-<img src="https://github.com/Simransingh010/GoogleGeminiClone/assets/73211327/f31935a8-5a67-4be7-a1f6-81cef4a19f50" width="300" height="600">
+<img src="https://github.com/Simransingh010/GoogleGeminiClone/assets/73211327/f5fa09eb-938c-4a02-a436-fa77f6be2471" width="300" height="650">
+<img src="https://github.com/Simransingh010/GoogleGeminiClone/assets/73211327/8e5fd7f4-2f29-4307-82c7-f0eea488eeba" width="300" height="650">
+<img src="https://github.com/Simransingh010/GoogleGeminiClone/assets/73211327/f31935a8-5a67-4be7-a1f6-81cef4a19f50" width="300" height="650">
 
 
 
