@@ -1,7 +1,7 @@
-Google Gemini Clone
+#Google Gemini Clone
 Google Gemini Clone is a conversational AI application built using Flutter. The application allows users to chat with an AI, save chat sessions, view chat history, and start new conversations. The project leverages various packages such as flutter_bloc, chips_choice, and shared_preferences for state management, UI components, and local storage, respectively.
 
-Features
+#Features
 Conversational AI: Chat with an AI bot named Athene.
 Save Sessions: Save chat sessions locally using SharedPreferences.
 View History: Access and view previous chat sessions.
